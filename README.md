@@ -1,2 +1,2 @@
-# history-of-genres
-A simple, personalized HTML/CSS class project redesigned in a more accessible format.
+History of Genres
+A simple, personalized HTML/CSS class project from Code.org redesigned in a more accessible format.
